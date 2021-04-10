@@ -18,7 +18,7 @@ https://public.tableau.com/views/NYCBikeSharingAnalysis/NYCCitiBikeRidingAnalysi
 
 
 1. Checkout Time (trip Duration) of All Riders: This visualization will tell us that the most of the riders around 150K users check out for a maximum of 6 minutes during the zero hr. <br/>
-![01-checkouttime-allriders](/images/01-checkouttime-allriders.png)
+![01-checkouttime-allriders](/images/01-checkouttime-allriders.PNG)
    
 2. Checkout Time (trip duration) By Gender: By looking at this visualization we can answer the Males are the most common riders who ride during zero hour of the day. The number of male riders are around 106 who checkouts for 6 min duration, while female riders are around 33K. <br/>
 [checkout duration by Gender](/images/02-checkouttime-ByGender.png)
@@ -36,7 +36,7 @@ https://public.tableau.com/views/NYCBikeSharingAnalysis/NYCCitiBikeRidingAnalysi
 [August Peak Hours](/images/07-PeakHours.png)
 
 7. Top Starting Location: In this visualization helps us to answer the top start location of the rides
-[Top Starting Location](/images/08-StartingLocationofRide.png)
+[Top Starting Location](/images/008-StartingLocationofRide.png)
 
 ## Summary
 
