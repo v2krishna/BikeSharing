@@ -18,25 +18,25 @@ https://public.tableau.com/views/NYCBikeSharingAnalysis/NYCCitiBikeRidingAnalysi
 
 
 1. Checkout Time (trip Duration) of All Riders: This visualization will tell us that the most of the riders around 150K users check out for a maximum of 6 minutes during the zero hr. <br/>
-[checkout duration of all riders]("/images/01-checkouttime-allriders.png")
+![01-checkouttime-allriders](/images/01-checkouttime-allriders.png)
    
 2. Checkout Time (trip duration) By Gender: By looking at this visualization we can answer the Males are the most common riders who ride during zero hour of the day. The number of male riders are around 106 who checkouts for 6 min duration, while female riders are around 33K. <br/>
-[checkout duration by Gender]("/images/02-checkouttime-ByGender.png")
+[checkout duration by Gender](/images/02-checkouttime-ByGender.png)
 
 3. Trips by Weekday for Each Hour: In this visualization we are answering what are the most common hrs that riders usually start riding during the day of the week. <br/>
-[Trips by Weekday per Hour]("/images/04-Trips-by-weekday-for-each-hr.png")
+[Trips by Weekday per Hour](/images/04-Trips-by-weekday-for-each-hr.png)
 
 4. Trips by Gender (Weekday per Hour): This visualization is same as the above one, with slight variation by using the Gender Category. This will help us to arrange the bikes that are mostly liked by the females according to their tastes and likings too.<br/>
-[TripsbyGender(weekday per hour)]("/images/05-TripsbyGender.png")
+[TripsbyGender(weekday per hour)](/images/05-TripsbyGender.png)
 
 5. User trips by Gender by Weekday: we are analyzing the rider types (subcribers vs customer) who are riding the most for each weekday.<br/>
-[UserTripsByGenderByWeekday]("/images/06-UserTripsByGender.png")
+[UserTripsByGenderByWeekday](/images/06-UserTripsByGender.png)
 
 6. August Peak Hours: In order to answer what are the peak hours for each day, we use the start time and number of riders to make this visualization. <br/>
-[August Peak Hours]("/images/07-PeakHours.png")
+[August Peak Hours](/images/07-PeakHours.png)
 
 7. Top Starting Location: In this visualization helps us to answer the top start location of the rides
-[Top Starting Location]("images/08-StartingLocationofRide.png")
+[Top Starting Location](/images/08-StartingLocationofRide.png)
 
 ## Summary
 
