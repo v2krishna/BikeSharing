@@ -36,7 +36,7 @@ https://public.tableau.com/views/NYCBikeSharingAnalysis/NYCCitiBikeRidingAnalysi
 ![August Peak Hours](/images/07-PeakHours.png)
 
 7. Top Starting Location: In this visualization helps us to answer the top start location of the rides
-![Top Starting Location](/images/008-StartingLocationofRide.png)
+![Top Starting Location](images/08-StartingLocationofRide.png)
 
 ## Summary
 
